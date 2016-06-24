@@ -1,0 +1,28 @@
+{
+  "name": "angular-gulp-bootstrap",
+  "version": "1.0.0",
+  "homepage": "https://github.com/palcisto/angular-gulp-bootstrap",
+  "description": "Angular 1.5+, Gulp, Babel, Jasmine, Karma, Hologram (styleguide)",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.0",
+    "angular": "^1.5.0",
+    "angular-messages": "^1.5.0",
+    "angular-sanitize": "^1.5.0",
+    "angular-ui-router": "^0.2.18",
+    "angular-cookie": "^4.0.9",
+    "angular-bootstrap": "^1.2.4",
+    "lodash": "^4.3.0",
+    "moment": "^2.11.2"
+  },
+  "devDependencies": {
+    "angular-mocks": "^1.5.0",
+    "jasmine-jquery": "^2.1.1"
+  }
+}

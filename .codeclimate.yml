@@ -1,0 +1,18 @@
+engines:
+  eslint:
+    enabled: true
+  rubocop:
+    enabled: false
+ratings:
+  paths:
+  - "src/app/**/*.js"
+exclude_paths:
+  - "**/*.html"
+  - "bin/**"
+  - "config/**"
+  - "gulp/**"
+  - "lib/**"
+  - "src/app/**/*.spec.js"
+  - "src/assets/**"
+  - "styleguide/**"
+  - "test/**"
